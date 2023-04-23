@@ -5,8 +5,8 @@ Portfólio pessoal para divulgação de projetos e serviços como desenvolvedor.
 
 ## Objetivos:
 - Criar um modelo para desenvolvimento do site através da aplicação Figma
-- Aperfeiçoar habilidades de desenvolvimento Front-end com React e outras Libs e Frameworks
-- Realizar boas práticas de código e seguir padrões de design, além de formas de deploy, domínio e hospedagem
+- Aperfeiçoar habilidades de desenvolvimento Front-end com React e outras Libs/Frameworks
+- Realizar boas práticas de código e seguir padrões de desenvolvimento, além de formas de deploy, domínio e hospedagem
 
 ## Ferramentas utilizadas:
 - HTML5
@@ -14,7 +14,7 @@ Portfólio pessoal para divulgação de projetos e serviços como desenvolvedor.
 - JavaScript ES6
 - TypeScript
 - React
-- GIT
+- Git
 - Github
 
 ## Como acessar:
