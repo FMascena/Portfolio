@@ -1,3 +1,23 @@
+.navbar {
+    background-color: #121212 !important;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+}
 
 /*# sourceMappingURL=style.css.map */
