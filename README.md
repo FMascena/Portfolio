@@ -11,9 +11,9 @@ Portfólio pessoal para divulgação de projetos e serviços como desenvolvedor.
 ## Ferramentas utilizadas:
 - HTML5
 - CSS3
-- JavaScript ES6
-- TypeScript
+- JavaScript
 - React
+- Bootstrap
 - Git
 - Github
 
